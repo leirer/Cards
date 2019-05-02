@@ -1,7 +1,7 @@
 
 public class Deck
 {
-    private int 
+    private String 
     public Deck()
     {
         
