@@ -1,11 +1,10 @@
 
 public class Deck
 {
-    private String 
+    private String r
     public Deck()
     {
         
     }
 
- 
 }
